@@ -1,0 +1,263 @@
+Registration date;Final answer_short;Analyse description;Isolate no. ;Patient Nr;Age;Gender
+9-9-11;St.aureus;Upper respiratory track;19;208;19;Male
+9-10-11;St.aureus;Upper respiratory track;20;43;85;Male
+9-10-11;St.aureus;Upper respiratory track;21;159;63;Male
+9-10-11;St.aureus;Lower erspiratory track;23;101;75;Male
+9-12-11;St.aureus;Upper respiratory track;26;93;76;Female
+9-13-11;St.aureus;Upper respiratory track;36;42;85;Female
+9-13-11;St.aureus;Upper respiratory track;47;95;76;Male
+9-15-11;St.aureus;Blood anaerobe;54;15;89;Male
+9-15-11;St.aureus;Upper respiratory track;60;9;91;Male
+9-14-11;St.aureus;Swab/skin;61;31;87;Female
+9-14-11;St.aureus;Swab/skin;63;31;87;Female
+9-15-11;St.aureus;Upper respiratory track;76;71;80;Female
+9-15-11;St.aureus;Swab/skin;78;166;58;Male
+9-15-11;St.aureus;Swab/skin;79;166;58;Male
+9-18-11;St.aureus;Upper respiratory track;81;107;74;Female
+9-18-11;St.aureus;Upper respiratory track;89;11;90;Female
+9-21-11;St.aureus;Urine;112;145;67;Male
+9-21-11;St.aureus;Upper respiratory track;117;47;85;Male
+9-23-11;St.aureus;Blood anaerobe;125;73;80;Male
+9-25-11;St.aureus;Swab/skin;149;142;67;Male
+9-25-11;St.aureus;Swab/skin;150;142;67;Male
+9-26-11;St.aureus;Swab/skin;153;163;60;Male
+9-29-11;St.aureus;Blood aerobe;177;118;71;Male
+10-1-11;St.aureus;Upper respiratory track;191;7;91;Male
+10-2-11;St.aureus;Swab/skin;201;139;67;Male
+10-3-11;St.aureus;Urine;203;23;88;Male
+10-3-11;St.aureus;Upper respiratory track;209;92;77;Female
+10-4-11;St.aureus;Upper respiratory track;215;36;86;Male
+10-4-11;St.aureus;Punctuation;218;182;51;Male
+10-3-11;St.aureus;Blood anaerobe;219;23;88;Male
+10-1-11;St.aureus;Blood anaerobe;220;53;83;Female
+10-5-11;St.aureus;Swab/skin;223;2;96;Male
+10-5-11;St.aureus;Upper respiratory track;225;18;88;Female
+10-5-11;St.aureus;Blood aerobe;228;2;96;Male
+10-6-11;St.aureus;Blood anaerobe;230;13;90;Female
+10-6-11;St.aureus;Upper respiratory track;261;104;75;Male
+10-6-11;St.aureus;Upper respiratory track;262;21;88;Male
+10-10-11;St.aureus;Swab/skin;278;128;69;Male
+10-12-11;St.aureus;Swab/skin;295;109;74;Female
+10-11-11;St.aureus;Upper respiratory track;296;33;86;Female
+10-13-11;St.aureus;Swab/skin;327;203;24;Female
+10-17-11;St.aureus;Swab/skin;331;210;18;Male
+10-17-11;St.aureus;Swab/skin;332;210;18;Male
+10-17-11;St.aureus;Swab/skin;333;141;67;Female
+10-18-11;St.aureus;Swab/skin;347;86;78;Female
+10-19-11;St.aureus;Upper respiratory track;365;79;80;Male
+10-24-11;St.aureus;Upper respiratory track;392;146;67;Female
+10-24-11;St.aureus;Blood aerobe;394;55;83;Female
+10-25-11;St.aureus;Swab/skin;399;132;69;Male
+10-25-11;St.aureus;Upper respiratory track;403;81;79;Male
+10-25-11;St.aureus;Upper respiratory track;412;131;69;Male
+10-27-11;St.aureus;Swab/skin;420;135;68;Female
+10-27-11;St.aureus;Swab/skin;421;135;68;Female
+10-30-11;St.aureus;Swab/skin;446;98;76;Female
+10-31-11;St.aureus;Upper respiratory track;455;155;64;Female
+11-6-11;St.aureus;Urine;486;179;55;Female
+11-7-11;St.aureus;Swab/skin;496;192;45;Male
+11-7-11;St.aureus;Urine;497;192;45;Male
+11-7-11;St.aureus;Upper respiratory track;508;176;56;Male
+11-8-11;St.aureus;Upper respiratory track;509;74;80;Female
+11-8-11;St.aureus;Upper respiratory track;510;40;86;Female
+11-8-11;St.aureus;Swab/skin;511;56;83;Female
+11-8-11;St.aureus;Upper respiratory track;521;46;85;Male
+11-9-11;St.aureus;Upper respiratory track;530;201;31;Female
+11-11-11;St.aureus;Upper respiratory track;535;123;70;Female
+11-12-11;St.aureus;Upper respiratory track;537;22;88;Male
+11-14-11;St.aureus;Punctuation;555;161;62;Male
+11-15-11;St.aureus;Blood aerobe;559;76;80;Female
+11-15-11;St.aureus;Upper respiratory track;563;76;80;Female
+11-20-11;St.aureus;Urine;580;122;71;Female
+11-19-11;St.aureus MRSA;Upper respiratory track;606;127;69;Female
+11-23-11;St.aureus;Blood anaerobe;613;186;48;Female
+11-25-11;St.aureus;Swab/skin;621;194;43;Male
+11-27-11;St.aureus;Blood aerobe;629;152;64;Male
+11-28-11;St.aureus;Upper respiratory track;637;63;81;Male
+12-1-11;St.aureus;Swab/skin;654;209;19;Male
+12-1-11;St.aureus;Swab/skin;656;130;69;Male
+12-4-11;St.aureus;Swab/skin;667;136;68;Female
+12-5-11;St.aureus;Blood aerobe;674;72;80;Female
+12-5-11;St.aureus;Swab/skin;675;30;87;Male
+12-5-11;St.aureus;Swab/skin;676;65;81;Female
+12-5-11;St.aureus;Upper respiratory track;678;72;80;Female
+12-5-11;St.aureus;Blood aerobe;685;195;42;Male
+12-7-11;St.aureus;Urine;697;173;57;Female
+12-7-11;St.aureus;Upper respiratory track;698;6;92;Male
+12-6-11;St.aureus;Swab/skin;700;187;48;Male
+12-6-11;St.aureus;Swab/skin;701;187;48;Male
+12-10-11;St.aureus;Blood anaerobe;713;133;68;Male
+12-11-11;St.aureus;Blood anaerobe;714;8;91;Male
+12-10-11;St.aureus;Urine;722;133;68;Male
+12-10-11;St.aureus;Upper respiratory track;727;97;76;Female
+12-13-11;St.aureus;Upper respiratory track;739;114;72;Female
+12-13-11;St.aureus;Swab/skin;745;114;72;Female
+12-13-11;St.aureus;Swab/skin;748;114;72;Female
+12-14-11;St.aureus;Urine;750;126;69;Male
+12-14-11;St.aureus;Swab/skin;753;126;69;Male
+12-14-11;St.aureus;Upper respiratory track;759;126;69;Male
+12-19-11;St.aureus;Blood aerobe;785;116;72;Male
+12-19-11;St.aureus;Upper respiratory track;789;116;72;Male
+12-20-11;St.aureus;Upper respiratory track;795;35;86;Male
+12-21-11;St.aureus;Upper respiratory track;804;5;93;Female
+12-26-11;St.aureus;Blood aerobe;824;110;74;Male
+12-25-11;St.aureus;Swab/skin;833;38;86;Male
+12-26-11;St.aureus;Swab/skin;837;30;87;Male
+12-26-11;St.aureus;Upper respiratory track;841;110;74;Male
+12-27-11;St.aureus;Upper respiratory track;843;1;97;Male
+12-27-11;St.aureus;Swab/skin;846;177;56;Male
+12-28-11;St.aureus;Upper respiratory track;850;160;63;Male
+12-28-11;St.aureus;Upper respiratory track;851;108;74;Male
+12-29-11;St.aureus;Blood aerobe;853;144;67;Female
+12-29-11;St.aureus;Punctuation;854;144;67;Female
+12-30-11;St.aureus;Swab/skin;862;211;18;Female
+12-31-11;St.aureus;Blood aerobe;865;60;82;Male
+12-31-11;St.aureus;Urine;872;60;82;Male
+1-2-12;St.aureus;Blood aerobe;882;10;91;Female
+1-1-12;St.aureus;Upper respiratory track;888;64;81;Male
+1-2-12;St.aureus;Blood aerobe;894;76;80;Female
+1-2-12;St.aureus;Swab/skin;896;212;14;Male
+1-2-12;St.aureus;Lower erspiratory track;907;206;21;Female
+1-5-12;St.aureus;Upper respiratory track;909;137;69;Male
+1-5-12;St.aureus;Upper respiratory track;911;181;51;Male
+1-9-12;St.aureus;Swab/skin;940;207;21;Male
+1-8-12;St.aureus;Upper respiratory track;942;19;89;Male
+1-11-12;St.aureus;Upper respiratory track;952;200;32;Male
+1-12-12;St.aureus;Upper respiratory track;966;105;75;Female
+1-15-12;St.aureus;Swab/skin;982;49;84;Female
+1-9-12;St.aureus;CAPD ;990;167;59;Male
+1-16-12;St.aureus;Swab/skin;996;196;42;Male
+1-14-12;St.aureus;Urine;998;36;86;Male
+1-20-12;St.aureus;Punctuation;1 008;188;48;Male
+1-20-12;St.aureus;Blood aerobe;1 009;53;83;Female
+1-20-12;St.aureus;Swab/skin;1 015;32;87;Female
+1-27-12;St.aureus;Blood aerobe;1 044;153;64;Male
+1-26-12;St.aureus;Blood aerobe;1 045;134;69;Female
+1-27-12;St.aureus;Blood aerobe;1 046;112;73;Male
+1-27-12;St.aureus;Upper respiratory track;1 050;153;64;Male
+1-27-12;St.aureus;Upper respiratory track;1 052;78;80;Male
+1-27-12;St.aureus;Swab/skin;1 054;153;64;Male
+1-27-12;St.aureus;Urine;1 058;153;64;Male
+1-29-12;St.aureus;Urine;1 061;170;58;Male
+2-3-12;St.aureus;Swab/skin;1 093;151;65;Female
+2-3-12;St.aureus;Swab/skin;1 094;151;65;Female
+2-7-12;St.aureus;Swab/skin;1 113;125;69;Female
+2-3-12;St.aureus;Swab/skin;1 118;4;94;Female
+2-10-12;St.aureus;Swab/skin;1 126;175;56;Male
+2-12-12;St.aureus;Upper respiratory track;1 140;105;75;Female
+2-13-12;St.aureus MRSA;Urine;1 153;120;71;Male
+2-13-12;St.aureus;Lower erspiratory track;1 156;150;65;Male
+2-13-12;St.aureus;Upper respiratory track;1 160;24;88;Male
+2-14-12;St.aureus;Swab/skin;1 162;177;56;Male
+2-14-12;St.aureus;Blood aerobe;1 163;185;49;Male
+2-14-12;St.aureus;Punctuation;1 165;185;49;Male
+2-15-12;St.aureus;Punctuation;1 166;185;49;Male
+2-15-12;St.aureus;Upper respiratory track;1 169;61;82;Female
+2-16-12;St.aureus;Upper respiratory track;1 170;184;50;Male
+2-16-12;St.aureus;Blood anaerobe;1 172;156;64;Male
+2-17-12;St.aureus;Blood aerobe;1 173;134;69;Female
+2-17-12;St.aureus;Upper respiratory track;1 175;134;69;Female
+2-17-12;St.aureus;Swab/skin;1 176;147;67;Male
+2-18-12;St.aureus;Swab/skin;1 185;162;61;Male
+2-20-12;St.aureus;Swab/skin;1 190;59;83;Male
+2-21-12;St.aureus;Swab/skin;1 197;87;78;Male
+2-22-12;St.aureus;Urine;1 202;106;75;Male
+2-24-12;St.aureus;Swab/skin;1 227;12;91;Male
+2-27-12;St.aureus;Blood aerobe;1 247;82;80;Male
+3-2-12;St.aureus;Swab/skin;1 281;37;86;Female
+3-3-12;St.aureus;Punctuation;1 283;37;86;Female
+3-2-12;St.aureus;Upper respiratory track;1 292;103;75;Female
+3-4-12;St.aureus;Blood aerobe;1 296;163;61;Male
+3-5-12;St.aureus;Upper respiratory track;1 299;28;87;Female
+3-6-12;St.aureus;Blood anaerobe;1 306;45;85;Male
+3-7-12;St.aureus;Urine;1 312;119;72;Female
+3-6-12;St.aureus;Swab/skin;1 313;41;86;Female
+3-7-12;St.aureus;Upper respiratory track;1 317;85;79;Male
+3-7-12;St.aureus;Blood aerobe;1 320;27;87;Male
+3-7-12;St.aureus;Blood anaerobe;1 321;119;72;Female
+3-8-12;St.aureus;Blood aerobe;1 325;39;86;Female
+3-9-12;St.aureus;Swab/skin;1 333;177;56;Male
+3-8-12;St.aureus;Urine;1 343;39;86;Female
+3-11-12;St.aureus;Upper respiratory track;1 349;17;89;Male
+3-10-12;St.aureus;Upper respiratory track;1 350;96;76;Male
+3-10-12;St.aureus;Urine;1 353;50;84;Male
+3-12-12;St.aureus;Urine;1 355;154;65;Female
+3-12-12;St.aureus;Swab/skin;1 360;154;65;Female
+3-13-12;St.aureus;Swab/skin;1 369;69;81;Female
+3-13-12;St.aureus;Blood aerobe;1 370;168;59;Male
+3-13-12;St.aureus;Swab/skin;1 371;169;59;Male
+3-13-12;St.aureus;Upper respiratory track;1 374;105;75;Female
+3-13-12;St.aureus;Swab/skin;1 378;58;83;Female
+3-14-12;St.aureus;Swab/skin;1 380;190;46;Male
+3-18-12;St.aureus;Swab/skin;1 415;193;46;Male
+3-23-12;St.aureus;Blood aerobe;1 440;3;95;Female
+3-25-12;St.aureus;Upper respiratory track;1 456;89;78;Male
+3-26-12;St.aureus;Swab/skin;1 474;171;58;Male
+3-30-12;St.aureus;Swab/skin;1 496;54;83;Female
+3-30-12;St.aureus;Upper respiratory track;1 500;94;77;Male
+3-31-12;St.aureus;Blood aerobe;1 504;51;84;Male
+3-31-12;St.aureus;Urine;1 514;51;84;Male
+4-1-12;St.aureus;Swab/skin;1 523;67;81;Female
+4-2-12;St.aureus;Swab/skin;1 525;143;67;Male
+4-1-12;St.aureus;Upper respiratory track;1 531;121;71;Male
+4-1-12;St.aureus;Upper respiratory track;1 532;67;81;Female
+4-3-12;St.aureus;Swab/skin;1 537;34;87;Female
+4-3-12;St.aureus;Blood anaerobe;1 540;52;84;Male
+4-3-12;St.aureus;Blood anaerobe;1 543;34;87;Female
+4-4-12;St.aureus;Blood aerobe;1 544;174;57;Male
+4-1-12;St.aureus;Punctuation;1 546;189;47;Female
+4-3-12;St.aureus;Urine;1 547;52;84;Male
+4-4-12;St.aureus;Blood anaerobe;1 550;179;55;Female
+4-7-12;St.aureus;Blood aerobe;1 561;83;79;Female
+4-7-12;St.aureus;Upper respiratory track;1 569;83;79;Female
+4-9-12;St.aureus;Upper respiratory track;1 597;99;76;Male
+4-11-12;St.aureus;Urine;1 601;149;66;Female
+4-11-12;St.aureus;Lower erspiratory track;1 604;44;85;Female
+4-11-12;St.aureus;Upper respiratory track;1 607;70;81;Male
+4-15-12;St.aureus;Upper respiratory track;1 625;148;66;Male
+4-16-12;St.aureus;Upper respiratory track;1 627;90;78;Male
+4-16-12;St.aureus;Urine;1 632;29;87;Male
+4-17-12;St.aureus;Blood aerobe;1 637;129;69;Male
+4-25-12;St.aureus;Urine;1 698;26;88;Male
+4-25-12;St.aureus;Swab/skin;1 699;117;72;Male
+4-26-12;St.aureus;Blood aerobe;1 704;14;90;Female
+4-26-12;St.aureus;Blood anaerobe;1 708;113;73;Male
+4-28-12;St.aureus;Swab/skin;1 723;205;24;Female
+4-29-12;St.aureus;Swab/skin;1 725;157;64;Male
+5-1-12;St.aureus;Swab/skin;1 735;158;64;Female
+5-1-12;St.aureus;Swab/skin;1 737;57;84;Male
+5-1-12;St.aureus;Upper respiratory track;1 740;57;84;Male
+4-30-12;St.aureus;Urine;1 745;115;72;Male
+5-1-12;St.aureus;Swab/skin;1 750;57;84;Male
+5-2-12;St.aureus;Swab/skin;1 752;62;82;Male
+5-2-12;St.aureus;Swab/skin;1 755;111;74;Male
+5-3-12;St.aureus;Swab/skin;1 765;180;54;Male
+5-4-12;St.aureus;Upper respiratory track;1 776;183;51;Male
+5-7-12;St.aureus;Urine;1 791;36;87;Male
+5-8-12;St.aureus;Swab/skin;1 798;197;43;Female
+5-8-12;St.aureus;Swab/skin;1 808;140;67;Female
+5-11-12;St.aureus;Swab/skin;1 825;202;25;Male
+5-10-12;St.aureus;Upper respiratory track;1 828;100;76;Male
+5-13-12;St.aureus;Blood aerobe;1 837;91;77;Male
+5-13-12;St.aureus;Swab/skin;1 840;164;61;Male
+5-13-12;St.aureus;Swab/skin;1 841;164;61;Male
+5-14-12;St.aureus;Blood aerobe;1 851;68;81;Male
+5-13-12;St.aureus;Blood anaerobe;1 852;77;81;Female
+5-14-12;St.aureus;Urine;1 853;68;81;Male
+5-14-12;St.aureus MRSA;Swab/skin;1 857;191;46;Male
+5-16-12;St.aureus;Urine;1 883;48;85;Male
+5-19-12;St.aureus;Swab/skin;1 889;66;82;Female
+5-19-12;St.aureus;Upper respiratory track;1 895;204;24;Male
+5-20-12;St.aureus;Upper respiratory track;1 896;165;61;Male
+5-22-12;St.aureus;Upper respiratory track;1 908;138;68;Female
+5-22-12;St.aureus;Swab/skin;1 910;20;89;Male
+5-22-12;St.aureus;Swab/skin;1 917;20;89;Male
+5-23-12;St.aureus;Swab/skin;1 923;178;56;Female
+5-24-12;St.aureus;Upper respiratory track;1 938;84;79;Female
+5-30-12;St.aureus;Urine;1 971;88;78;Male
+5-31-12;St.aureus;Swab/skin;1 990;199;36;Male
+6-3-12;St.aureus;Blood anaerobe;1 999;83;79;Female
+6-3-12;St.aureus;Upper respiratory track;2 008;83;79;Female
+6-5-12;St.aureus;Swab/skin;2 014;80;80;Male
+6-7-12;St.aureus;Punctuation;2 022;198;40;Male
+6-7-12;St.aureus;Urine;2 027;16;91;Female
